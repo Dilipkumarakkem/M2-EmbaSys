@@ -1,0 +1,46 @@
+INTRODUCTION:
+
+I am going to make the Gas sensor using ATMEGA328P and MQ-2 gas sensor Gas sensor MQ-2 is used here with ATmega32 microcontroller to detect gas presence and display the level of the gas on LCD. 
+MQ-2 gas sensor can detect LPG, smoke and hydrogen gas, butane, CO2, alcohol etc so you can use it in many projects. 
+Here we will simply display the level of LPG gas and Smoke in PPM(Parts Per Million) on LCD.
+
+4W'S AND 1H:
+
+Where:
+
+Gas sensor system is use this in real time environments like hospitals, schools and shopping malls etc..
+
+When:
+
+Gas sensor is activated when the gas is leak in and the  buzzer is activated automatically
+ throught micro controller atmega8
+
+What:
+
+Gas sensor system using microcontroller Atmega8 and gas  sensor, here gas sensor play a vital role
+
+Why:
+
+Gas sensor  system is use this in real time environments like hospitals schools and shopping malls they are used
+
+How:
+
+Gas sensor is independent device it not dependent on external user it work on micro controller
+
+High Level Requirements:
+
+HLR	Description:
+
+HLR_1	It work when gas is  detected.
+HLR_2	Buzzer will strat work when gas  is detects.
+HLR_3	We need to reset buzzer after work done.
+HLR_4	Fire alarm need to work perfectly.
+
+Low Level Requirements:
+
+LLR	Description:
+
+LLR_1	Fire sensor is needed.
+LLR_2	Buzzer is need and connects to microcontroller.
+LLR_3	Reset button is need to install.
+LLR_4	Microcontroller need to install.
