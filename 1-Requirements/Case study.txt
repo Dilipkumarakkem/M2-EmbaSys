@@ -63,7 +63,17 @@ Buzzer is used to make sound and it a output to the circuit
 
 Gas sensor:
 
-The MQ-2 module contains the MQ-2 gas sensor, some chip that performs signal conditioning, resistors, potentiometer for adjusting the sensitivity. 
-The MQ-2 gas sensor itself contains gas sensitive conductive Tin Dioxide (SnO2) layer whose conductivity increases, that is, resistivity decreases when the gas concentration near it increases. 
+The MQ-2 module contains the MQ-2 gas sensor, some chip that performs signal conditioning, 
+resistors, potentiometer for adjusting the sensitivity. 
+The MQ-2 gas sensor itself contains gas sensitive conductive Tin Dioxide (SnO2) layer whose conductivity increases,
+ that is, resistivity decreases when the gas concentration near it increases. 
 This increase in conductivity or decrease in resistivity is translated into output voltage via the voltage divider that is formed by
  the internal SnO2 and the potentiometer and some resistors and capacitors 10KΩ resistor, 10KΩ resistor, 22uF capacitor.
+
+ Conclusion:
+Thus, the conclusion is that we can be aware of any danger that can be caused by gas leakage and further
+ catching fire and causing more damage and danger. It’s SMS technique can also be used with GSM
+  technology to send messages to emergency services. We can also use it to detect various other gases other than LPG and CNG. 
+It will be helpful in public places like Mall’s, hospital’s, hotel’s etc. In such places there is a huge rush of people, 
+women and small children.helpful in public places like Mall’s, hospital’s, hotel’s etc.
+ In such places there is a huge rush of people, women and small children.
