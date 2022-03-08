@@ -1,4 +1,4 @@
-Gas decting sensor
+Ultrasonic Detecting Sensor
 
 8 Features of the Ultrasonic Distance Sensor:
 
